@@ -1,0 +1,156 @@
+h1 {
+    font-weight: bold;
+    font-size: 26px;
+    font-family: '#PT-Sans-Narrow';
+    margin: 30px 50px;
+
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Raleway';
+    margin: 30px 50px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Raleway';
+}
+
+body {
+    margin: auto 150px;
+}
+
+
+.colors {
+    display: block;
+    border: 1px solid black;
+}
+
+.colors p {
+    display: inline-block;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 50px;
+}
+
+#khaki {
+    background-color: #f0e68c;
+}
+
+#sienna {
+    background-color: #a0522d;
+}
+
+#tomato {
+    background-color: #ff6347;
+}
+
+#darkred {
+    background-color: #8b0000;
+}
+
+div#Josefin {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+div#Raleway {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+div#PT-Sans-Narrow {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+p.josefin-title {
+    font-family:'Josefin Sans';
+    text-decoration: underline;
+    font-size: 23px;
+}
+
+p.josefin {
+    font-family:'Josefin Sans';
+}
+
+p.josefin-bold {
+    font-family: 'Josefin Sans';
+    font-weight: bold;
+}
+
+p.josefin-italic {
+    font-family: 'Josefin Sans';
+    font-style: italic;
+}
+
+p#raleway-title {
+    font-family: 'Raleway';
+    text-decoration: underline;
+    font-size: 23px;
+}
+
+p#raleway {
+    font-family:'Raleway';
+}
+
+p#raleway-bold {
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+p#raleway-italic {
+    font-family: 'Raleway';
+    font-style: italic;
+}
+
+p#pt-title {
+    font-family: 'PT Sans Narrow';
+    text-decoration: underline;
+    font-size: 23px;
+}
+
+p#pt {
+    font-family:'PT Sans Narrow';
+}
+
+p#pt-bold {
+    font-family: 'PT Sans Narrow';
+    font-weight: bold;
+}
+
+p#pt-italic {
+    font-family: 'PT Sans Narrow';
+    font-style: italic;
+}
+
+.fonts {
+    border: 1px solid black;
+    margin: 20px auto;
+    padding-bottom: 20px;
+}
+
+.text-styles {
+    border: 1px solid black;
+}
+
+#h1 {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#h2 {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#paragraph {
+    display: inline-block;
+    margin-right: 20px;
+}
